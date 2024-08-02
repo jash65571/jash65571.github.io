@@ -201,19 +201,19 @@ header {
 }
 
 .progress-line .css {
-    width: 90%;
-}
-
-.progress-line .bootstrap {
-    width: 50%;
-}
-
-.progress-line .javascript {
     width: 80%;
 }
 
+.progress-line .bootstrap {
+    width: 90%;
+}
+
+.progress-line .javascript {
+    width: 100%;
+}
+
 .progress-line .c {
-    width: 70%;
+    width: 9999%;
 }
 
 .bar .progress-line span::before {
