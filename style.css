@@ -209,7 +209,7 @@ header {
 }
 
 .progress-line .javascript {
-    width: 100%;
+    width: 90%;
 }
 
 .progress-line .c {
@@ -256,7 +256,7 @@ header {
 }
 
 .progress-line .javascript::after {
-    content: "100%";
+    content: "90%";
 }
 
 .progress-line .c::after {
